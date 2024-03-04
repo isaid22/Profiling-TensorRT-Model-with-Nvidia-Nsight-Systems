@@ -1,6 +1,4 @@
 # Profiling-TensorRT-Model-with-Nvidia-Nsight-Systems
-See the differences in model latency using Nvidia Nsight System
-# Profiling-TensorRT-Model-with-Nvidia-Nsight-Systems
 
 ## Introduction
 This document presents the findings and discussion of profiling a TensorRT - optimized model using Nvidia Nsight Systems. The EC2 instance used for profiling is g4dn.xl which contains one Nvidia T-4 GPU. Details about Nsight System setup is documented [here](https://github.com/kct22aws/Nvidia-Nsight-Systems-on-Inferentia). 
